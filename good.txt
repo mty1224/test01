@@ -1,6 +1,6 @@
 aaaaa
-bbbbb edit by mty-02 master, test conflicts in remote repository
-ccccc edit by master
+bbbbb conflict is solved, test conflicts in remote repository
+ccccc
 ddddd
 eeeee edit by git_002(mty-02) master
 fffff also edit by git_002(mty-02) master ...
