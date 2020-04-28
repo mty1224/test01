@@ -1,5 +1,5 @@
 aaaaa
-bbbbb
+bbbbb edit by mty1224 master, test conflicts in remote repository
 ccccc edit by master
 ddddd
 eeeee edit by git_002(mty-02) master
